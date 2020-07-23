@@ -7,7 +7,6 @@ use Godbout\DashDocsetBuilder\Services\DocsetBuilder;
 use Illuminate\Support\Facades\Storage;
 use Tests\TestCase;
 
-/** @group alfred4 */
 class Alfred4Test extends TestCase
 {
     public function setUp(): void

@@ -12,7 +12,6 @@ use Illuminate\Support\Str;
 use Tests\TestCase;
 use Wa72\HtmlPageDom\HtmlPageCrawler;
 
-/** @group@ alfred4 */
 class Alfred4Test extends TestCase
 {
     public function setUp(): void
